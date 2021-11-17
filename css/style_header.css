@@ -1,0 +1,53 @@
+.logo {
+	width: 170px;
+	display:inline-block;
+    margin: 10px 0;
+}
+
+header {
+  background: #FFBFB7;
+
+}
+
+.caixa {
+	width: 94%;
+	margin: 0 auto;
+}
+
+.navlink {
+  text-transform: uppercase;
+	color: #A12E2E;
+	font-weight: bold;
+	font-size:27px;
+	text-decoration: none;
+
+}
+
+.itens li {
+	display: inline;
+	margin: 0 0 0 10px;
+}
+
+.navlink:hover {
+	font-size: 28px;
+	color: red;
+	text-decoration:underline;
+
+}
+
+/*css rodape*/
+
+footer {
+	text-align: center;
+	background:linear-gradient(#c0908a, #D5A07D);}
+
+.footerr {
+	padding: 40px 0;
+}
+
+.copy {
+	color: #FFF6DA;
+	font-size: 18px;
+	margin-top: 20px;
+}
+

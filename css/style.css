@@ -1,0 +1,117 @@
+
+
+ /*receitas*/
+
+ body {
+
+ 	  background: #FFF6DA;
+ }
+
+ .imgreceitas {
+ 	 height: 240px;
+ }
+
+
+.navreceitas {
+   color: #A12E2E;
+ 	 text-decoration: none;
+ }
+
+ .receitas {
+ 	 width: 980px;
+ 	 margin: 0 auto;
+ 	 text-align: center;
+ 	 padding: 50px 0;
+ }
+
+ .receitas li {
+ 	  display: inline-block;
+ 	  text-align: center;
+ 	  width: 30%;
+ 	  vertical-align: top;
+ 	  background:linear-gradient(#FBEED3, #EBCAB5);
+ 	  margin: 0 1.5%;
+ 	  padding: 30px 20px;
+ 	  box-sizing: border-box;
+ 	  border-color: #A12E2E;
+ 	  border-width:3px ;
+ 	  border-style:solid;
+ 	  border-radius: 10px;
+ }
+
+ .receitas h2 {
+ 	 font-size: 25px ;
+ 	 font-weight: bold;
+ }
+
+ .receitas p {
+ 	  font-size: 20px;
+ }
+
+ .receitas li:hover {
+ 	border-color:#DCAA99;
+ 	background:linear-gradient(#EBCAB5, #FBEED3);
+ }
+
+ .receitas li:active {
+ 	 border-color: #C4E9CF;
+ }
+
+ .receitas li:hover h2 {
+ 	 	font-size: 32px;
+ }
+
+ /*home css*/
+
+ .mainhome {
+  background:#FFF6DA;
+  width: auto ;
+ }
+
+ .principal {
+   position: relative;
+ 	width: 940px;
+ 	margin: 0 auto;
+ 	padding-top: 20px;
+ }
+
+ .principal p {
+ 	font-size: 23px;
+ 	margin: 1em;
+ }
+
+ .sobre {
+ 	position: relative;
+ 	width: 940px;
+ 	margin:  0 auto;
+  padding: 20px 0;
+
+ }
+
+ .sobre p {
+ 	font-size: 23px;
+ 	margin: 1em;
+ }
+
+ .sobre h2 {
+ 	font-size: 25px;
+ 	margin: 2em 0 2em;
+ 	text-align: center;
+ 
+ }
+
+ .torta {
+  width: 170px;
+  float: left;
+  margin: 20px 20px 20px 0
+ }
+
+ /*css creditos */
+
+
+
+/*css do fale conosco*/
+
+
+
+

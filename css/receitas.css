@@ -1,0 +1,25 @@
+.titulo_receitas {
+	font-size: 50px;
+	text-align: center;
+	margin: 20px 20px;
+}
+.sub_titulo_receitas {
+	font-size: 35px;
+	text-align:center;
+	margin: 10px 10px;
+}
+.imagens_receitas {
+	width: 350px;
+	float: left;
+}
+
+.ingredientes {
+	font-size: 30px;
+	text-align: block;
+	margin: 30px 30px;
+	
+}
+
+.footerr {
+	clear:left;
+}
